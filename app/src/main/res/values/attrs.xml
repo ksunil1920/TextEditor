@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="scrollable_and_focusable_view">
+        <attr name="isScrollContainer" format="boolean" />
+        <attr name="enabled" format="boolean" />
+        <attr name="focusable" format="boolean" />
+        <attr name="lineSpacingExtra" format="dimension" />
+        <attr name="inputType" format="string" />
+    </declare-styleable>
+</resources>

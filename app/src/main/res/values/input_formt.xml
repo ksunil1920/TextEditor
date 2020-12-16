@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formats_array">
+        <item>Plain Text</item>
+        <item>Circular Bullet</item>
+        <item>Number</item>
+        <item>Triangular Bullet</item>
+    </string-array>
+</resources>
